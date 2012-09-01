@@ -45,7 +45,7 @@
     "os": [
         "linux",
         "macos",
-        "win"
+        "win32"
     ],
     "cpu": [
         "x86",
